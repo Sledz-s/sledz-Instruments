@@ -1,0 +1,17 @@
+{
+  "sledzinstruments.keymaps": "Even More Instruments! Keymaps",
+  "sledzinstruments.keymaps.instrument_type_modifier": "Cycle Instrument Sound",
+
+  "item.shift.hint.show": "Przyrzymaj Shift by dowiedzieć się więcej",
+  "item.shift.hint.hide": "Puść Shift by ukryć",
+
+  "creativetab.sledz_instruments_tab": "Sledz's Instruments",
+
+  "item.sledzinstruments.accordeon": "Akordeon",
+  "item.sledzinstruments.viola": "Altówka",
+  "item.sledzinstruments.harmonica": "Harmonijka",
+  "item.sledzinstruments.banjo": "Bandżo",
+  "item.sledzinstruments.panflute": "Fletnia pana",
+  "item.sledzinstruments.cello": "Wiolonczela",
+  "item.sledzinstruments.flute": "Flet"
+}
