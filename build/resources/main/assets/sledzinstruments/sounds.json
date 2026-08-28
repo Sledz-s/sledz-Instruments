@@ -1,0 +1,598 @@
+{
+    "harmonica_note_0": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/0"]
+    },
+    "harmonica_note_1": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/1"]
+    },
+    "harmonica_note_2": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/2"]
+    },
+    "harmonica_note_3": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/3"]
+    },
+    "harmonica_note_4": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/4"]
+    },
+    "harmonica_note_5": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/5"]
+    },
+    "harmonica_note_6": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/6"]
+    },
+    "harmonica_note_7": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/7"]
+    },
+    "harmonica_note_8": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/8"]
+    },
+    "harmonica_note_9": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/9"]
+    },
+    "harmonica_note_10": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/10"]
+    },
+    "harmonica_note_11": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/11"]
+    },
+    "harmonica_note_12": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/12"]
+    },
+    "harmonica_note_13": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/13"]
+    },
+    "harmonica_note_14": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/14"]
+    },
+    "harmonica_note_15": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/15"]
+    },
+    "harmonica_note_16": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/16"]
+    },
+    "harmonica_note_17": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/17"]
+    },
+    "harmonica_note_18": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/18"]
+    },
+    "harmonica_note_19": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/19"]
+    },
+    "harmonica_note_20": {
+        "category": "record",
+        "sounds": ["sledzinstruments:harmonica/20"]
+    },
+
+    "banjo_note_0": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/0"]
+    },
+    "banjo_note_1": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/1"]
+    },
+    "banjo_note_2": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/2"]
+    },
+    "banjo_note_3": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/3"]
+    },
+    "banjo_note_4": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/4"]
+    },
+    "banjo_note_5": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/5"]
+    },
+    "banjo_note_6": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/6"]
+    },
+    "banjo_note_7": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/7"]
+    },
+    "banjo_note_8": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/8"]
+    },
+    "banjo_note_9": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/9"]
+    },
+    "banjo_note_10": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/10"]
+    },
+    "banjo_note_11": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/11"]
+    },
+    "banjo_note_12": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/12"]
+    },
+    "banjo_note_13": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/13"]
+    },
+    "banjo_note_14": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/14"]
+    },
+    "banjo_note_15": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/15"]
+    },
+    "banjo_note_16": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/16"]
+    },
+    "banjo_note_17": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/17"]
+    },
+    "banjo_note_18": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/18"]
+    },
+    "banjo_note_19": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/19"]
+    },
+    "banjo_note_20": {
+        "category": "record",
+        "sounds": ["sledzinstruments:banjo/20"]
+    },
+
+    "flute_note_0": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/0"]
+    },
+    "flute_note_1": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/1"]
+    },
+    "flute_note_2": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/2"]
+    },
+    "flute_note_3": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/3"]
+    },
+    "flute_note_4": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/4"]
+    },
+    "flute_note_5": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/5"]
+    },
+    "flute_note_6": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/6"]
+    },
+    "flute_note_7": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/7"]
+    },
+    "flute_note_8": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/8"]
+    },
+    "flute_note_9": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/9"]
+    },
+    "flute_note_10": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/10"]
+    },
+    "flute_note_11": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/11"]
+    },
+    "flute_note_12": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/12"]
+    },
+    "flute_note_13": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/13"]
+    },
+    "flute_note_14": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/14"]
+    },
+    "flute_note_15": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/15"]
+    },
+    "flute_note_16": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/16"]
+    },
+    "flute_note_17": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/17"]
+    },
+    "flute_note_18": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/18"]
+    },
+    "flute_note_19": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/19"]
+    },
+    "flute_note_20": {
+        "category": "record",
+        "sounds": ["sledzinstruments:flute/20"]
+    },
+
+    "panflute_note_0": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/0"]
+    },
+    "panflute_note_1": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/1"]
+    },
+    "panflute_note_2": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/2"]
+    },
+    "panflute_note_3": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/3"]
+    },
+    "panflute_note_4": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/4"]
+    },
+    "panflute_note_5": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/5"]
+    },
+    "panflute_note_6": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/6"]
+    },
+    "panflute_note_7": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/7"]
+    },
+    "panflute_note_8": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/8"]
+    },
+    "panflute_note_9": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/9"]
+    },
+    "panflute_note_10": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/10"]
+    },
+    "panflute_note_11": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/11"]
+    },
+    "panflute_note_12": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/12"]
+    },
+    "panflute_note_13": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/13"]
+    },
+    "panflute_note_14": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/14"]
+    },
+    "panflute_note_15": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/15"]
+    },
+    "panflute_note_16": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/16"]
+    },
+    "panflute_note_17": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/17"]
+    },
+    "panflute_note_18": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/18"]
+    },
+    "panflute_note_19": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/19"]
+    },
+    "panflute_note_20": {
+        "category": "record",
+        "sounds": ["sledzinstruments:panflute/20"]
+    },
+
+    "accordeon_note_0": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/0"]
+    },
+    "accordeon_note_1": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/1"]
+    },
+    "accordeon_note_2": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/2"]
+    },
+    "accordeon_note_3": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/3"]
+    },
+    "accordeon_note_4": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/4"]
+    },
+    "accordeon_note_5": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/5"]
+    },
+    "accordeon_note_6": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/6"]
+    },
+    "accordeon_note_7": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/7"]
+    },
+    "accordeon_note_8": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/8"]
+    },
+    "accordeon_note_9": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/9"]
+    },
+    "accordeon_note_10": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/10"]
+    },
+    "accordeon_note_11": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/11"]
+    },
+    "accordeon_note_12": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/12"]
+    },
+    "accordeon_note_13": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/13"]
+    },
+    "accordeon_note_14": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/14"]
+    },
+    "accordeon_note_15": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/15"]
+    },
+    "accordeon_note_16": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/16"]
+    },
+    "accordeon_note_17": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/17"]
+    },
+    "accordeon_note_18": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/18"]
+    },
+    "accordeon_note_19": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/19"]
+    },
+    "accordeon_note_20": {
+        "category": "record",
+        "sounds": ["sledzinstruments:accordeon/20"]
+    },
+
+
+    "viola_note_0": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/0"]
+    },
+    "viola_note_1": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/1"]
+    },
+    "viola_note_2": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/2"]
+    },
+    "viola_note_3": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/3"]
+    },
+    "viola_note_4": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/4"]
+    },
+    "viola_note_5": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/5"]
+    },
+    "viola_note_6": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/6"]
+    },
+    "viola_note_7": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/7"]
+    },
+    "viola_note_8": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/8"]
+    },
+    "viola_note_9": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/9"]
+    },
+    "viola_note_10": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/10"]
+    },
+    "viola_note_11": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/11"]
+    },
+    "viola_note_12": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/12"]
+    },
+    "viola_note_13": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/13"]
+    },
+    "viola_note_14": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/14"]
+    },
+    "viola_note_15": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/15"]
+    },
+    "viola_note_16": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/16"]
+    },
+    "viola_note_17": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/17"]
+    },
+    "viola_note_18": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/18"]
+    },
+    "viola_note_19": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/19"]
+    },
+    "viola_note_20": {
+        "category": "record",
+        "sounds": ["sledzinstruments:viola/20"]
+    },
+
+
+    "cello_note_0": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/0"]
+    },
+    "cello_note_1": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/1"]
+    },
+    "cello_note_2": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/2"]
+    },
+    "cello_note_3": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/3"]
+    },
+    "cello_note_4": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/4"]
+    },
+    "cello_note_5": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/5"]
+    },
+    "cello_note_6": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/6"]
+    },
+    "cello_note_7": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/7"]
+    },
+    "cello_note_8": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/8"]
+    },
+    "cello_note_9": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/9"]
+    },
+    "cello_note_10": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/10"]
+    },
+    "cello_note_11": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/11"]
+    },
+    "cello_note_12": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/12"]
+    },
+    "cello_note_13": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/13"]
+    },
+    "cello_note_14": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/14"]
+    },
+    "cello_note_15": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/15"]
+    },
+    "cello_note_16": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/16"]
+    },
+    "cello_note_17": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/17"]
+    },
+    "cello_note_18": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/18"]
+    },
+    "cello_note_19": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/19"]
+    },
+    "cello_note_20": {
+        "category": "record",
+        "sounds": ["sledzinstruments:cello/20"]
+    }
+}

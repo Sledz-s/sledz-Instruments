@@ -1,0 +1,10 @@
+{
+    "required": false,
+	"package": "com.sledz.sledzinstruments.mixins.required",
+	"compatibilityLevel": "JAVA_17",
+	"refmap": "mixins.evenmoreinstruments.refmap.json",
+	"client": [
+      "ScreenAccessor"
+	],
+	"minVersion": "0.8"
+}

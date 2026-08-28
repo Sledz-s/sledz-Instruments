@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Specification-Title: sledzinstruments
+Specification-Vendor: StavWasPlayZ, sl3DZ
+Specification-Version: 1
+Implementation-Title: sledzs Instruments-1.20.1
+Implementation-Version: 1.20-1.20.1-1.0.2
+Implementation-Vendor: StavWasPlayZ, sl3DZ
+Implementation-Timestamp: 2026-08-28T13:42:18+0200
+MixinConfigs: mixins.sledzinstruments.optional.json,mixins.sledzinstrume
+ nts.required.json
+
